@@ -1,0 +1,14 @@
+.row{
+    width: 60vw;
+}
+
+.button{
+    font-size: 0.7rem;
+    height: 3vh;
+}
+
+.ip{
+    height: 4vh;
+    font-size: 1.1rem;
+    width: 37.5vw;
+}
